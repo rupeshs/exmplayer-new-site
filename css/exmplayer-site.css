@@ -36,6 +36,10 @@ box-shadow: 0 0 5px #888;
  h1, h2, h3, h4, h5, h6,a,p, div {
    font-family: 'Monda', sans-serif;
 }
+.span3
+{
+	margin:5px;
+}
 /* Footer
 -------------------------------------------------- */
 
